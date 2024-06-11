@@ -6,7 +6,6 @@ Welcome to my portfolio website! This site showcases my projects, skills, and ex
 - [Live Site](#live-site)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -14,7 +13,7 @@ Welcome to my portfolio website! This site showcases my projects, skills, and ex
 
 ## Live Site
 
-You can view the live site here: [My Portfolio](https://www.example.com)
+You can view the live site here: [My Portfolio](https://anishjain34.github.io/Portofolio/)
 
 ## Features
 
@@ -28,9 +27,6 @@ You can view the live site here: [My Portfolio](https://www.example.com)
 - HTML5
 - CSS3
 - JavaScript
-- [Bootstrap](https://getbootstrap.com/)
-- [Font Awesome](https://fontawesome.com/)
-- [jQuery](https://jquery.com/)
 
 
 This website is intended to serve as a professional portfolio to showcase my work and skills. It includes sections for:
