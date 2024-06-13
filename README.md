@@ -34,6 +34,7 @@ This website is intended to serve as a professional portfolio to showcase my wor
 - **About Me:** A brief introduction and background.
 - **Projects:** A display of my completed projects with descriptions and links to live versions or repositories.
 - **Skills:** A list of technologies and tools I am proficient in.
+- **Certificates** List of Course Certificates
 - **Contact:** A form to get in touch with me directly through the website.
 
 ## Contributing
