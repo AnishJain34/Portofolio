@@ -230,6 +230,7 @@ a:hover{
   .btn-color-1:hover,
   .btn-color-2:hover {
     cursor: pointer;
+    text-decoration:none;
   }
   
   .btn-color-1,
